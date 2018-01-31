@@ -14,7 +14,7 @@
 #endif
 
 #define NUM_THREADS  4
-#define NUM_ITEMS    10000
+#define NUM_ITEMS    1
 
 pthread_t threads[NUM_THREADS];
 int       thread_id[NUM_THREADS];
